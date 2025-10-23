@@ -1,6 +1,6 @@
 package com.darliane.langchain4j.config;
 
-import com.darliane.langchain4j.AssistantTools;
+import com.darliane.langchain4j.tools.AssistantTools;
 import com.darliane.langchain4j.service.AssistantAiService;
 import dev.langchain4j.model.googleai.GoogleAiGeminiChatModel;
 import dev.langchain4j.service.AiServices;

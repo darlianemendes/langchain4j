@@ -1,4 +1,4 @@
-package com.darliane.langchain4j;
+package com.darliane.langchain4j.tools;
 
 import dev.langchain4j.agent.tool.Tool;
 import org.springframework.stereotype.Component;
